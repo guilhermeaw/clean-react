@@ -1,5 +1,6 @@
 export interface HttpPostParams {
   url: string
+  body?: object
 }
 
 export interface HttpPostClient {
