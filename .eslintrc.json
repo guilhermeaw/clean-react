@@ -5,6 +5,6 @@
   },
   "rules": {
     "@typescipt-eslint/consistent-type-definitions": "off",
-    "@typescipt-eslint/strict-boolean-expressions": "off"
+    "@typescript-eslint/strict-boolean-expressions": 0
   }
 }
