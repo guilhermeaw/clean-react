@@ -15,12 +15,9 @@
     "paths": {
       "@/*": ["*"]
     },
-    "skipLibCheck": true,
-    "allowSyntheticDefaultImports": true,
-    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
     "resolveJsonModule": true,
     "strictNullChecks": false,
-    "noEmit": true
   },
   "include": [
     "src"
