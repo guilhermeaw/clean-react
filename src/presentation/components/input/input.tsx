@@ -17,8 +17,6 @@ const Input: React.FC<Props> = (props: Props) => {
   }
 
   const getTitle = (): string => {
-    console.log(props.name)
-    console.log(error)
     return error
   }
 
